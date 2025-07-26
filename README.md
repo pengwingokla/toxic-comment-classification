@@ -1,4 +1,6 @@
-# toxic-comment-classification
+# 🧠 Toxic Comment Classification
+This project focuses on building a machine learning pipeline to classify toxic comments in online platforms. Leveraging natural language processing (NLP) techniques, the model identifies various types of toxicity—such as hate speech, threats, and identity-based attacks—within user-generated content.
+
 ## 🔍 Features
 * TF-IDF vectorization for feature extraction from raw text
 * Supervised learning models including Logistic Regression, SVM, and Random Forest
